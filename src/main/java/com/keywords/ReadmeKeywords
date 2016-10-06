@@ -1,0 +1,29 @@
+Category:
+Keywords
+
+Access modifiers:
+private, protected, public
+
+Class, method, variable modifiers:
+abstract, class, extends, final, implements, interface, native, new, static, strictfp, synchronized, transient, volatile
+
+Flow control:
+break, case, continue, default, do, else, for, if, instanceof, return, switch, while
+
+Package control:
+import, package
+
+Primitive types:
+boolean, byte, char, double, float, int, long, short
+
+Error handling:
+assert, catch, finally, throw, throws, try
+
+Enumeration:
+enum
+
+Others:
+super, this, void
+
+Unused:
+const, goto
